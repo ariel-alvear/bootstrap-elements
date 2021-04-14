@@ -1,5 +1,7 @@
 {
   "name": "bootstrap_elements_with_jquery",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
